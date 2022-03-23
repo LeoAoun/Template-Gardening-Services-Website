@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url(fundo.jpg);
+    background-image: url(images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -21,7 +21,7 @@ header {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    background-image: url(leaf.jpeg);
+    background-image: url(images/leaf.jpeg);
     padding: 20px;
     align-items: center;
     width: 90%;
@@ -29,7 +29,8 @@ header {
     border-radius: 30px;
     font-family: 'Open Sans', sans-serif;
     color: whitesmoke;
-    text-shadow: black 2px 6px 4px;
+    font-weight: 900;
+    text-shadow: black 2px 2px 0px;
     border-style: inset;
     font-size: 1.2em;
 }
@@ -37,6 +38,7 @@ header {
 h1 {
     font-size: 1.5em;
     margin-left: 15px;
+    
 }
 
 a:hover {
@@ -53,12 +55,12 @@ ul {
 
 
 
-.fotos {
+.pic {
     max-width: 100%;
     width: 400px;
     border-radius: 20px;
 }
-.endereço, .contato{
+.adress, .contact{
     width: 250px;
     max-width: 100%;
     
