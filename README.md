@@ -2,6 +2,7 @@
 
 <p> <strong>Pt-BR: </strong> Meu primeiro projeto, um site de serviços de jardinagem (utilizando somente HTML e CSS)</p>
 <p> <strong>En: </strong>My first project, a gardening services website (using only HTML and CSS)</p>
+<p> <strong>View: </strong> <a href="https://leoaoun.github.io/Template-Gardening-Services-Website/" target="_blank"> Click Here</p>
 <br>
   <div align="center">
   
